@@ -91,3 +91,9 @@ document_listing_table = config_data["tables"]["document_listing"]
 ##### --Domain Name-- #####
 '''
 domain_name = config_data["domain"]
+
+
+"""
+Notification Endpoint
+"""
+notif_endpoint  = 'https://01messi3qe.execute-api.us-east-1.amazonaws.com/demo'

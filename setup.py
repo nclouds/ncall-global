@@ -42,7 +42,7 @@ setup(
     # This is a one-line description or tagline of what your project does. This
     # corresponds to the "Summary" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#summary
-    description='SQL ORM Code',  # Optional
+    description='Ncall global functions',  
 
     # This is an optional longer description of your project that represents
     # the body of text which users will see when they visit PyPI.
@@ -78,7 +78,7 @@ setup(
 
     # This should be a valid email address corresponding to the author listed
     # above.
-    author_email='link2qaiser@gmail.com',  # Optional
+    author_email='qaiser@nclouds.com',  # Optional
 
     # Classifiers help users find your project by categorizing it.
     #
